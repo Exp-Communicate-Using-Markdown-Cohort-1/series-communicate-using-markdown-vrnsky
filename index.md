@@ -15,3 +15,8 @@ public class Octocat {
   }
 }
 ```
+
+Before convert from Draft to Fine-grade PR:
+- [ ] I have reviewed code myself 
+- [X] It is tested (How unit/integration/manual)
+- [ ] There is no tech debt introduced
